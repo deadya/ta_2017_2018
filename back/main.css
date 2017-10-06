@@ -1,0 +1,11 @@
+.panel{
+	float:left;
+	background-color:#AABBCC;
+	width:10%;
+	height:100%;
+}
+
+.content{
+	background-color:#DDBBCC;
+	height:100%;
+}

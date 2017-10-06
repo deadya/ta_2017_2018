@@ -1,0 +1,17 @@
+.header{
+	background-color:#AABBCC;
+	width:100%;
+	height:20%;
+}
+
+.content{
+	background-color:#CCBBDD;
+	width:100%;
+	height:70%
+}
+
+.footer{
+	background-color:#AAEECC;
+	width:100%;
+	height:20%
+}
